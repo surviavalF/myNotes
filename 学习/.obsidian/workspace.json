@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "533749f46567ad4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "66f7fce44adde0fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34331661c85c6e9d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6141f2729312f93b",
+    "type": "split",
+    "children": [
+      {
+        "id": "be49b1e3f1fd780e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4d156531b5e1b2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "630523eda2a2b4b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ff597fcf91f563b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54be23974c2c1245",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed0174c454a21c62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07d33ecb15aa6616",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e9912d87b905742",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5394bbea8416f797",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d30cbd93062568c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "34331661c85c6e9d",
+  "lastOpenFiles": [
+    "Java学习/Java/Java知识.md",
+    "Java学习/方法/重载.md",
+    "Java学习/方法/构造方法.md",
+    "Java学习/SpringBoot/javaweb、spring、springmvc和springboot有什么区别，都是做什么用的？.md",
+    "Java学习/注解/java注解.md",
+    "Java学习/方法/重写.md",
+    "Java学习/关键字/关键字.md",
+    "Java学习/方法/成员方法.md",
+    "Java学习/关键字/implements.md",
+    "Java学习/关键字/final.md",
+    "Java学习/类型/类型转换.md",
+    "Java学习/类型/String.md",
+    "Java学习/类型/数组.md",
+    "Java学习/其他/访问修饰符.md",
+    "Java学习/附件/Pasted image 20240206105014.png",
+    "Java学习/注解/@SpringBootApplication.md",
+    "Java学习/注解/@RestController.md",
+    "Java学习/其他/Switch支持的数据类型.md",
+    "Java学习/其他/Maven依赖拉取.md",
+    "测试/测试类型/功能测试.md",
+    "测试/测试类型/系统测试.md",
+    "测试/测试技巧",
+    "测试/测试类型",
+    "测试",
+    "Java学习/未命名",
+    "Java学习/类/Application类作用及run()方法作用.md",
+    "Java学习/类型/为什么 Java 不把基本类型放在堆中？.md",
+    "Java学习/类型/基本类型.md",
+    "Java学习/类/String类，StringBuffer类，StringBuilder类总比较.md",
+    "Java学习/类/ArrayList和LinkedList的区别.md",
+    "Java学习/类/ServiceImpl.md",
+    "Java学习/附件/Pasted image 20240205095642.png",
+    "Java学习/附件/Pasted image 20240205095621.png",
+    "Java学习/附件/Pasted image 20240205095601.png",
+    "Java学习/附件/Pasted image 20240205095519.png",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "Java学习/附件/Pasted image 20240204144415.png",
+    "Java学习/附件/Pasted image 20240204144358.png",
+    "Pasted image 20240204140232.png",
+    "Pasted image 20240204140225.png",
+    "Java学习/SpringBoot",
+    "Java学习/SQL",
+    "Java学习/方法",
+    "Java学习/类",
+    "Java学习/附件",
+    "Java学习/其他",
+    "帮助文档/附件/管理工作区布局.png"
+  ]
+}

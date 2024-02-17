@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "cd77d3049d334d68",
+    "type": "split",
+    "children": [
+      {
+        "id": "c103a873ac3995c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a6c9e25af16a215",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "840c4f64bd481a61",
+    "type": "split",
+    "children": [
+      {
+        "id": "c26f3bdbbdf63af1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36b20656839fe5a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02d54b9632c464fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8bd02c518441c2cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1592663f1733a61a",
+    "type": "split",
+    "children": [
+      {
+        "id": "151614bcc11a69df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c682c002bb75f4d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86027b1c4c8a0332",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ab1d8f5ee2ff5e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b17caf323cabbf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2a6c9e25af16a215",
+  "lastOpenFiles": [
+    "使用指南/格式化笔记.md",
+    "由此开始.md",
+    "使用指南/内部链接.md",
+    "插件/核心插件.md",
+    "插件/星标.md",
+    "Obsidian/索引.md",
+    "使用指南/使用快捷键.md",
+    "插件/日记.md",
+    "插件/模板.md",
+    "插件/命令面板.md",
+    "用户界面/工作区/面板/面板布局.md",
+    "插件/工作区.md",
+    "插件/发布.md",
+    "使用指南/多笔记协同.md",
+    "插件/笔记重组.md",
+    "插件/白板.md"
+  ]
+}

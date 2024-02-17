@@ -1,0 +1,1 @@
+ServiceImpl类可以让我们自己声明的类进行SQL操作，MybatisPlus生成的方法xxxxxImpl都会继承这个类的全部方法
