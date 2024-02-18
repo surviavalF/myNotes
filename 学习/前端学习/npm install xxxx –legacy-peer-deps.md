@@ -1,0 +1,1 @@
+npm从v7开始install就默认以peerDependencies的方式下载，peerDependencies是避免依赖被多个项目重复下载，--legacy-peer-deps命令用于避免peerDependency功能；它告诉npm忽略项目中依赖相同但版本不同的问题，以npm v3-v6的方式去继续执行安装操作，但是会出现冗余现象

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "66f7fce44adde0fe",
+        "id": "6ae8e0de3c72575b",
         "type": "tabs",
         "children": [
           {
-            "id": "34331661c85c6e9d",
+            "id": "66b1e937f4c87579",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "前端学习/VUE/Vue3 中应该使用 Ref 而不是 Reactive.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "前端学习/VUE/Vue3 中应该使用 Ref 而不是 Reactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "前端学习/VUE/Vue3 中应该使用 Ref 而不是 Reactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "前端学习/VUE/Vue3 中应该使用 Ref 而不是 Reactive.md"
+              }
             }
           }
         ],
@@ -138,16 +147,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "34331661c85c6e9d",
+  "active": "66b1e937f4c87579",
   "lastOpenFiles": [
+    "前端学习/VUE/vue相关问题.md",
+    "前端学习/VUE/Vue3 中应该使用 Ref 而不是 Reactive.md",
+    "前端学习/常用http状态码：.md",
+    "前端学习/VUE",
+    "前端学习/CSS.md",
+    "前端学习/npm install xxxx –legacy-peer-deps.md",
+    "前端学习/前端基础.md",
+    "Java学习/方法/成员方法.md",
+    "前端学习/浏览器渲染过程：.md",
+    "前端学习/常用浏览器js引擎：.md",
+    "前端学习/常用浏览器内核.md",
+    "Java学习/方法/重写.md",
+    "前端学习",
+    "VUE",
+    "未命名",
     "Java学习/Java/Java知识.md",
     "Java学习/方法/重载.md",
     "Java学习/方法/构造方法.md",
     "Java学习/SpringBoot/javaweb、spring、springmvc和springboot有什么区别，都是做什么用的？.md",
     "Java学习/注解/java注解.md",
-    "Java学习/方法/重写.md",
     "Java学习/关键字/关键字.md",
-    "Java学习/方法/成员方法.md",
     "Java学习/关键字/implements.md",
     "Java学习/关键字/final.md",
     "Java学习/类型/类型转换.md",
@@ -158,19 +180,10 @@
     "Java学习/注解/@SpringBootApplication.md",
     "Java学习/注解/@RestController.md",
     "Java学习/其他/Switch支持的数据类型.md",
-    "Java学习/其他/Maven依赖拉取.md",
-    "测试/测试类型/功能测试.md",
-    "测试/测试类型/系统测试.md",
     "测试/测试技巧",
     "测试/测试类型",
     "测试",
     "Java学习/未命名",
-    "Java学习/类/Application类作用及run()方法作用.md",
-    "Java学习/类型/为什么 Java 不把基本类型放在堆中？.md",
-    "Java学习/类型/基本类型.md",
-    "Java学习/类/String类，StringBuffer类，StringBuilder类总比较.md",
-    "Java学习/类/ArrayList和LinkedList的区别.md",
-    "Java学习/类/ServiceImpl.md",
     "Java学习/附件/Pasted image 20240205095642.png",
     "Java学习/附件/Pasted image 20240205095621.png",
     "Java学习/附件/Pasted image 20240205095601.png",
@@ -183,10 +196,6 @@
     "Pasted image 20240204140225.png",
     "Java学习/SpringBoot",
     "Java学习/SQL",
-    "Java学习/方法",
-    "Java学习/类",
-    "Java学习/附件",
-    "Java学习/其他",
     "帮助文档/附件/管理工作区布局.png"
   ]
 }

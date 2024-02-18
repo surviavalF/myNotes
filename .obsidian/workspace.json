@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "cbd145a3b15df0bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "836903963588329f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "608556c248396e44",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84c9e998e4f8e911",
+    "type": "split",
+    "children": [
+      {
+        "id": "41f3693a192ae8ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eee1cc6bc80460bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6033b95c1032e024",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46ad47177f050c4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b41783a5097908d",
+    "type": "split",
+    "children": [
+      {
+        "id": "faeb911b207c1d14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19d9c19f35faa958",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ec8c750ec18007a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40374031e6efb2a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74a7ad65988ef6f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "608556c248396e44",
+  "lastOpenFiles": [
+    "开发笔记/附件/Exported image 20240218135430-0 1.png",
+    "OneNote/第1章 计算器组成与体系结构/1.4CPU的组成（运算器与控制器）.md",
+    "OneNote/第1章 计算器组成与体系结构/1.5寻址方式.md",
+    "OneNote/第1章 计算器组成与体系结构/1.3校验码.md",
+    "OneNote/第1章 计算器组成与体系结构/1.2数据的表示.md",
+    "OneNote/第1章 计算器组成与体系结构/1.1内容提要.md",
+    "学习/前端学习/vue相关问题.md",
+    "1.4CPU的组成（运算器与控制器）.md/Exported image 20240218153143-20.jpeg",
+    "2.5设备管理.md/Exported image 20240218153143-20.jpeg",
+    "2.4存储管理.md/Exported image 20240218153143-20.jpeg",
+    "2.3进程管理.md/Exported image 20240218153143-20.jpeg",
+    "1.1内容提要.md/Exported image 20240218153143-20.jpeg",
+    "1.3校验码.md/Exported image 20240218153143-20.jpeg",
+    "1.9输入输出技术.md/Exported image 20240218153143-20.jpeg",
+    "1.6CISC与RISC.md/Exported image 20240218153143-20.jpeg",
+    "1.5寻址方式.md/Exported image 20240218153143-20.jpeg",
+    "1.12性能指标.md/Exported image 20240218153143-20.jpeg",
+    "OneNote/第3章 数据库系统",
+    "2.4存储管理.md",
+    "OneNote/第2章 操作系统/2.4存储管理.md",
+    "2.3进程管理.md",
+    "OneNote/第2章 操作系统/2.3进程管理.md",
+    "2.5设备管理.md",
+    "OneNote/第2章 操作系统/2.5设备管理.md",
+    "2.7作业管理.md",
+    "OneNote/第2章 操作系统/2.7作业管理.md",
+    "2.6文件管理.md",
+    "OneNote/第2章 操作系统/2.6文件管理.md",
+    "1.1内容提要.md",
+    "OneNote/第2章 操作系统",
+    "1.3校验码.md",
+    "1.4CPU的组成（运算器与控制器）.md",
+    "1.5寻址方式.md",
+    "1.6CISC与RISC.md",
+    "OneNote/第1章 计算器组成与体系结构/1.6CISC与RISC.md",
+    "1.8存储系统.md",
+    "OneNote/第1章 计算器组成与体系结构/1.8存储系统.md",
+    "1.9输入输出技术.md",
+    "OneNote/第1章 计算器组成与体系结构",
+    "OneNote",
+    "OneNote/第16章 程序设计语言",
+    "OneNote/第15章 数据结构及算法应用",
+    "OneNote/第14章 算法基础",
+    "OneNote/第13章 数据结构",
+    "OneNote/第12章 面向对象程序设计",
+    "OneNote/第11章 UML建模"
+  ]
+}
