@@ -1,78 +1,15 @@
-```
-            
-let
- 
-timer
- 
-=
- 
-setTimeout
-(()
-=>
- {
-```
+```js
+            let timer = setTimeout(()=> {
 
-```
-                
-clearTimeout
-(
-timer
-)
-```
+                clearTimeout(timer)
 
-```
-                
-let
- 
-drawerDom
- 
-=
- 
-document
-.
-querySelector
-(
-'.u-drawer'
-)
-```
+                let drawerDom = document.querySelector('.u-drawer')
 
-```
-                
-let
- 
-copyone
- 
-=
- 
-drawerDom
-```
+                let copyone = drawerDom
 
-```
-                
-drawerDom
-.
-parentNode
-.
-removeChild
-(
-drawerDom
-)
-```
+                drawerDom.parentNode.removeChild(drawerDom)
 
-```
-                
-document
-.
-body
-.
-appendChild
-(
-copyone
-)
-```
+                document.body.appendChild(copyone)
 
-```
-            }, 
-20
-)
+            }, 20)
 ```

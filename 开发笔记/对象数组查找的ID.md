@@ -1,130 +1,29 @@
-```
-    
-// 
-```
+```js
+    // 假设你有一个对象数组
 
-_假设你有一个对象数组_
+var array = [
 
-```
-var 
-array
- 
-=
- [
-```
+  { id: 1, name: 'Object 1' },
 
-```
-  { 
-id
-: 
-1
-, 
-name
-: 
-'Object 1'
- },
-```
+  { id: 2, name: 'Object 2' },
 
-```
-  { 
-id
-: 
-2
-, 
-name
-: 
-'Object 2'
- },
-```
+  { id: 3, name: 'Object 3' }
 
-```
-  { 
-id
-: 
-3
-, 
-name
-: 
-'Object 3'
- }
-```
-
-```
 ];
-```
 
-```
-// 
-```
+// 要查找的ID
 
-_要查找的_
+var searchId = 2;
 
-```
-ID
-```
+// 使用数组的find方法查找对象
 
-```
-var 
-searchId
- 
-=
- 
-2
-;
-```
+var resultObject = array.find(function(obj) {
 
-```
-// 
-```
+  return obj.id === searchId;
 
-_使用数组的_
-
-```
-find
-```
-
-_方法查找对象_
-
-```
-var 
-resultObject
- 
-=
- 
-array
-.
-find
-(
-function
-(
-obj
-) {
-```
-
-```
-  
-return
- 
-obj
-.
-id
- 
-===
- 
-searchId
-;
-```
-
-```
 });
-```
 
-```
-// 
-```
+// 输出结果对象
 
-_输出结果对象_
-
-```
 console.log(resultObject);
 ```

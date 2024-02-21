@@ -1,541 +1,115 @@
-```
-function
- 
-base64ConvertToBlob
-() {
-```
+```js
+function base64ConvertToBlob() {
 
-```
-  
-function
- 
-base64ToBlob
-({
-```
+  function base64ToBlob({
 
-```
-    
-b64data
- 
-=
- 
-""
-,
-```
+    b64data = "",
 
-```
-    
-contentType
- 
-=
- 
-""
-,
-```
+    contentType = "",
 
-```
-    
-sliceSize
- 
-=
- 
-512
-```
+    sliceSize = 512
 
-```
-  } 
-=
- {}) {
-```
+  } = {}) {
 
-```
-    
-return
- 
-new
- 
-Promise
-((
-resolve
-, 
-reject
-) 
-=>
- {
-```
+    return new Promise((resolve, reject) => {
 
-```
-      
-// 
-```
+      // 使用 atob() 方法将数据解码
 
-_使用_
+      let byteCharacters = atob(b64data);
 
-```
- atob() 
-```
+      let byteArrays = [];
 
-_方法将数据解码_
+      for (
 
-```
-      
-let
- 
-byteCharacters
- 
-=
- 
-atob
-(
-b64data
-);
-```
+        let offset = 0;
 
-```
-      
-let
- 
-byteArrays
- 
-=
- [];
-```
+        offset < byteCharacters.length;
 
-```
-      
-for
- (
-```
+        offset += sliceSize
 
-```
-        
-let
- 
-offset
- 
-=
- 
-0
-;
-```
-
-```
-        
-offset
- 
-<
- 
-byteCharacters
-.
-length
-;
-```
-
-```
-        
-offset
- 
-+=
- 
-sliceSize
-```
-
-```
       ) {
-```
 
-```
-        
-let
- 
-slice
- 
-=
- 
-byteCharacters
-.
-slice
-(
-offset
-, 
-offset
- 
-+
- 
-sliceSize
-);
-```
+        let slice = byteCharacters.slice(offset, offset + sliceSize);
 
-```
-        
-let
- 
-byteNumbers
- 
-=
- [];
-```
+        let byteNumbers = [];
 
-```
-        
-for
- (
-let
- 
-i
- 
-=
- 
-0
-; 
-i
- 
-<
- 
-slice
-.
-length
-; 
-i
-++
-) {
-```
+        for (let i = 0; i < slice.length; i++) {
 
-```
-          
-byteNumbers
-.
-push
-(
-slice
-.
-charCodeAt
-(
-i
-));
-```
+          byteNumbers.push(slice.charCodeAt(i));
 
-```
         }
-```
 
-```
-        
-// 8 
-```
+        // 8 位无符号整数值的类型化数组。内容将初始化为 0。
 
-_位无符号整数值的类型化数组。内容将初始化为_
+        // 如果无法分配请求数目的字节，则将引发异常。
 
-```
- 0
-```
+        byteArrays.push(new Uint8Array(byteNumbers));
 
-_。_
-
-```
-        
-// 
-```
-
-_如果无法分配请求数目的字节，则将引发异常。_
-
-```
-        
-byteArrays
-.
-push
-(
-new
- 
-Uint8Array
-(
-byteNumbers
-));
-```
-
-```
       }
-```
 
-```
-      
-let
- 
-result
- 
-=
- 
-new
- 
-Blob
-(
-byteArrays
-, {
-```
+      let result = new Blob(byteArrays, {
 
-```
-        
-type
-: 
-contentType
-```
+        type: contentType
 
-```
       });
-```
 
-```
-      
-result
- 
-=
- 
-Object
-.
-assign
-(
-result
-, {
-```
+      result = Object.assign(result, {
 
-```
-        
-// 
-```
+        // 这里一定要处理一下 URL.createObjectURL
 
-_这里一定要处理一下_
+        preview: URL.createObjectURL(result),
 
-```
- URL.createObjectURL
-```
+        name: `XXX.png`
 
-```
-        
-preview
-: 
-URL
-.
-createObjectURL
-(
-result
-),
-```
-
-```
-        
-name
-: 
-`XXX.png`
-```
-
-```
       });
-```
 
-```
-      
-resolve
-(
-result
-);
-```
+      resolve(result);
 
-```
     });
-```
 
-```
   }
-```
 
-```
-  
-return
- 
-new
- 
-Promise
-((
-resolve
-) 
-=>
- {
-```
+  return new Promise((resolve) => {
 
-```
-    
-Promise
-.
-all
-(
-```
+    Promise.all(
 
-```
-      
-formData
-.
-value
-.
-imgLists
-.
-map
-(
-async
- (
-item
-, 
-index
-) 
-=>
- {
-```
+      formData.value.imgLists.map(async (item, index) => {
 
-```
-        
-if
- (
-item
-.
-indexOf
-(
-"base64"
-) 
->
- 
--
-1
-) {
-```
+        if (item.indexOf("base64") > -1) {
 
-```
-          
-let
- 
-base64
- 
-=
- 
-item
-.
-split
-(
-","
-)[
-1
-];
-```
+          let base64 = item.split(",")[1];
 
-```
-          
-return
- (
-index
- 
-=
- {
-```
+          return (index = {
 
-```
-            
-imgList
-: 
-await
- 
-base64ToBlob
-({
-```
+            imgList: await base64ToBlob({
 
-```
-              
-b64data
-: 
-base64
-,
-```
+              b64data: base64,
 
-```
-              
-contentType
-: 
-"image/png"
-```
+              contentType: "image/png"
 
-```
             })
-```
 
-```
           });
-```
 
-```
-        } 
-else
- {
-```
+        } else {
 
-```
-          
-return
- (
-index
- 
-=
- { 
-oldList
-: 
-item
- });
-```
+          return (index = { oldList: item });
 
-```
         }
-```
 
-```
       })
-```
 
-```
     )
-```
 
-```
-      .
-then
-(
-resolve
-)
-```
+      .then(resolve)
 
-```
-      .
-catch
-((
-err
-) 
-=>
- {
-```
+      .catch((err) => {
 
-```
-        
-console
-.
-log
-(
-err
-);
-```
+        console.log(err);
 
-```
       });
-```
 
-```
   });
-```
 
-```
 }
 ```

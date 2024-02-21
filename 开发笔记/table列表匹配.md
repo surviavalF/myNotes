@@ -1,129 +1,31 @@
-```
-          <
-el-table-column
-```
+```js
+          <el-table-column
 
-```
-            
-prop
-=
-"rcCreatePerson"
-```
+            prop="rcCreatePerson"
 
-```
-            
-align
-=
-"center"
-```
+            align="center"
 
-```
-            
-label
-=
-"
-```
+            label="创建人"
 
-创建人
+            :formatter="rcCreatePersonFormatter"
 
-```
-"
-```
+            show-overflow-tooltip
 
-```
-            :
-formatter
-=
-"
-rcCreatePersonFormatter
-"
-```
+          ></el-table-column>
 
-```
-            
-show-overflow-tooltip
-```
+    // 创建人
 
-```
-          ></
-el-table-column
->
+    rcCreatePersonFormatter(row, column, cellValue) {
 
+      try {
 
-```
+        return this.userList.find((item) => item.userId === cellValue).userName;
 
-```
-    
-// 
-```
+      } catch (e) {
 
-_创建人_
+        return cellValue;
 
-```
-    
-rcCreatePersonFormatter
-(
-row
-, 
-column
-, 
-cellValue
-) {
-```
-
-```
-      
-try
- {
-```
-
-```
-        
-return
- 
-this
-.
-userList
-.
-find
-((
-item
-) 
-=>
- 
-item
-.
-userId
- 
-===
- 
-cellValue
-).
-userName
-;
-```
-
-```
-      } 
-catch
- (
-e
-) {
-```
-
-```
-        
-return
- 
-cellValue
-;
-```
-
-```
       }
-```
 
-```
     },
-
 ```

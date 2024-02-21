@@ -5,10 +5,10 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:帮助文档  ",
+      "query": "path:前端学习 ",
       "color": {
         "a": 1,
         "rgb": 16489885
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5694148928667632,
+  "scale": 0.3242333202184654,
   "close": true
 }

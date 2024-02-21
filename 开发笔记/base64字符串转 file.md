@@ -1,183 +1,23 @@
-```
-      
-// base64
-```
+```js
+      // base64字符串
 
-_字符串_
+      const base64String = "your_base64_string_here";
 
-```
-      
-const
- 
-base64String
- 
-=
- 
-"your_base64_string_here"
-;
-```
+      // 将base64字符串转换为Blob
 
-```
-      
-// 
-```
+      const byteCharacters = atob(base64String);
 
-_将_
+      const byteNumbers = new Array(byteCharacters.length);
 
-```
-base64
-```
+      for (let i = 0; i < byteCharacters.length; i++) {
 
-_字符串转换为_
+        byteNumbers[i] = byteCharacters.charCodeAt(i);
 
-```
-Blob
-```
-
-```
-      
-const
- 
-byteCharacters
- 
-=
- 
-atob
-(
-base64String
-);
-```
-
-```
-      
-const
- 
-byteNumbers
- 
-=
- 
-new
- 
-Array
-(
-byteCharacters
-.
-length
-);
-```
-
-```
-      
-for
- (
-let
- 
-i
- 
-=
- 
-0
-; 
-i
- 
-<
- 
-byteCharacters
-.
-length
-; 
-i
-++
-) {
-```
-
-```
-        
-byteNumbers
-[
-i
-] 
-=
- 
-byteCharacters
-.
-charCodeAt
-(
-i
-);
-```
-
-```
       }
-```
 
-```
-      
-const
- 
-byteArray
- 
-=
- 
-new
- 
-Uint8Array
-(
-byteNumbers
-);
-```
+      const byteArray = new Uint8Array(byteNumbers);
 
-```
-      
-const
- 
-blob
- 
-=
- 
-new
- 
-Blob
-([
-byteArray
-], { 
-type
-: 
-"application/octet-stream"
- }); 
-// Blob
-```
+      const blob = new Blob([byteArray], { type: "application/octet-stream" }); // Blob转为File对象
 
-_转为_
-
-```
-File
-```
-
-_对象_
-
-```
- 
-```
-
-```
-      
-const
- 
-file
- 
-=
- 
-new
- 
-File
-([
-blob
-], 
-"filename.jpg"
-, { 
-type
-: 
-'image/jpeg'
- });
+      const file = new File([blob], "filename.jpg", { type: 'image/jpeg' });
 ```

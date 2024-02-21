@@ -1,60 +1,22 @@
 ![Exported image](Exported%20image%2020240218135430-0%201.png)  
   
+```js
+ display: flex;
 
-```
- display: 
-flex
-;
-```
+  flex-direction: column;
 
-```
-  flex-direction: 
-column
-;
-```
+  .pageData {
 
-```
-  
-.pageData
- {
-```
+    flex: 1;
 
-```
-    flex: 
-1
-;
-```
+    overflow: hidden;
 
-```
-    overflow: 
-hidden
-;
-```
+    .scroll {
 
-```
-    
-.scroll
- {
-```
+      height: 100%;
 
-```
-      height: 
-100
-%
-;
-```
+      border: 1rpx solid #000;
 
-```
-      border: 
-1
-rpx 
-solid
- 
-#000
-;
-```
-
-```
     }
 ```
 

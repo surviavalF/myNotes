@@ -7,10 +7,7 @@
 - ==chore: 构建或辅助工具的变动==
 - ==misc: 一些未归类或不知道将它归类到什么方面的提交==
   
-> 来自 <[https://www.cnblogs.com/chucklu/p/10400519.html](https://www.cnblogs.com/chucklu/p/10400519.html)>  
 
-  
-> 来自 <[https://www.cnblogs.com/chucklu/p/10400519.html](https://www.cnblogs.com/chucklu/p/10400519.html)>  
 
 Git 提交规范
 
@@ -51,73 +48,3 @@ Git 提交规范
 （不止一个使用 * 代替）
 
   
-
-*简要描述
-
-做了哪些改变
-
-```
-// PAF_FLFGFL 
-```
-
-_法律法规分类_
-
-```
-// PAF_SYHY 
-```
-
-_适用行业_
-
-```
-// PAF_GSLB 
-```
-
-_归属类别_
-
-```
-// PAF_YHFL 
-```
-
-_隐患分类_
-
-```
-// PAF_GSXZ 
-```
-
-_归属性质_
-
-```
-// PAF_JCDX 
-```
-
-_检查对象_
-
-```
-// PAF_BSDX 
-```
-
-_辨识对象_
-
-```
-// PAF_SGLX 
-```
-
-_事故类型_
-
-```
-// PAF_AQBSLX 
-```
-
-_安全标识_
-
-```
-// PAF_XXLX 
-```
-
-_消息类型_
-
-```
-// PAF_MSDSTYPE msds
-```
-
-_类型_

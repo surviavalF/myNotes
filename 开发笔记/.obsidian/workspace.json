@@ -1,35 +1,52 @@
 {
   "main": {
-    "id": "cd77d3049d334d68",
+    "id": "bda39d854781d2a6",
     "type": "split",
     "children": [
       {
-        "id": "c103a873ac3995c4",
+        "id": "d5f888bdc9b7111d",
         "type": "tabs",
         "children": [
           {
-            "id": "2a6c9e25af16a215",
+            "id": "945c2b6e6d71578c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "打包.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5f286f4ca04ec37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "层级问题移动dom.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "840c4f64bd481a61",
+    "id": "fffe182e63612b69",
     "type": "split",
     "children": [
       {
-        "id": "c26f3bdbbdf63af1",
+        "id": "ee9be352ce0d4992",
         "type": "tabs",
         "children": [
           {
-            "id": "36b20656839fe5a7",
+            "id": "9c6c70dcba56d061",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +56,12 @@
             }
           },
           {
-            "id": "02d54b9632c464fa",
+            "id": "42e229f26ff0e2d1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "表格",
+                "query": "假",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,34 +71,34 @@
             }
           },
           {
-            "id": "8bd02c518441c2cc",
+            "id": "c3f872f88de2baa4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 337.5
   },
   "right": {
-    "id": "1592663f1733a61a",
+    "id": "127652c108503699",
     "type": "split",
     "children": [
       {
-        "id": "151614bcc11a69df",
+        "id": "96186549e781d207",
         "type": "tabs",
         "children": [
           {
-            "id": "c682c002bb75f4d0",
+            "id": "44ac42e3f83d38fd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "层级问题移动dom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,18 +110,19 @@
             }
           },
           {
-            "id": "86027b1c4c8a0332",
+            "id": "cc1cf5c27f369e58",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "层级问题移动dom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3ab1d8f5ee2ff5e4",
+            "id": "333a9621ef3f01ac",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,11 +133,13 @@
             }
           },
           {
-            "id": "7b17caf323cabbf2",
+            "id": "ab9964a5ebfa5599",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "层级问题移动dom.md"
+              }
             }
           }
         ]
@@ -139,23 +159,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2a6c9e25af16a215",
+  "active": "d5f286f4ca04ec37",
   "lastOpenFiles": [
-    "使用指南/格式化笔记.md",
-    "由此开始.md",
-    "使用指南/内部链接.md",
-    "插件/核心插件.md",
-    "插件/星标.md",
-    "Obsidian/索引.md",
-    "使用指南/使用快捷键.md",
-    "插件/日记.md",
-    "插件/模板.md",
-    "插件/命令面板.md",
-    "用户界面/工作区/面板/面板布局.md",
-    "插件/工作区.md",
-    "插件/发布.md",
-    "使用指南/多笔记协同.md",
-    "插件/笔记重组.md",
-    "插件/白板.md"
+    "表头过长隐藏.md",
+    "Uni-app 气泡.md",
+    "Uni-app 方法 防抖.md",
+    "table列表匹配.md",
+    "scroll-view不设定高度滚动.md",
+    "Element滚动条样式.md",
+    "Exported image 20240218135514-0.png",
+    "El-tree选择的节点获取.md",
+    "El-tree横向显示.md",
+    "el-input 属性type=number时去掉右侧箭头.md",
+    "Css First-child.md",
+    "commit规范.md",
+    "base64字符串转 file.md",
+    "Base64 to Blob.md",
+    "字符长度计算（中文算两个字符）.md",
+    "选中改变样式.md",
+    "小数取整.md",
+    "文本换行.md",
+    "图片旋转.md",
+    "头像堆叠.md",
+    "刷新数组.md",
+    "数字转汉字.md",
+    "鼠标移上去变小手.md",
+    "手机号身份证.md",
+    "删除node_modules.md",
+    "年份计算，农历，阳历，天干地支.md",
+    "快排.md",
+    "附件/Exported image 20240218135515-0 1.png",
+    "附件/Exported image 20240218135516-0.png",
+    "附件/Exported image 20240218135514-1 1.png",
+    "附件/Exported image 20240218135514-0 2.png",
+    "附件/Exported image 20240218135507-0 1.png",
+    "附件/Exported image 20240218135516-0 1.png",
+    "附件/Exported image 20240218135515-0 2.png",
+    "附件/Exported image 20240218135515-0.png",
+    "附件/Exported image 20240218135514-1 2.png",
+    "未命名"
   ]
 }
