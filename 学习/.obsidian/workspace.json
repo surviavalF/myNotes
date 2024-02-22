@@ -129,13 +129,29 @@
                 "file": "Java学习/关键字/关键字.md"
               }
             }
+          },
+          {
+            "id": "21584fa6e99285d6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddee3cb74baff978",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +163,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b182fe7c6428fa08",
+  "active": "21584fa6e99285d6",
   "lastOpenFiles": [
     "Java学习/类/Application类作用及run()方法作用.md",
     "Java学习/类/ServiceImpl.md",
