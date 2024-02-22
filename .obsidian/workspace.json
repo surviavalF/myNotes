@@ -11,8 +11,12 @@
             "id": "608556c248396e44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "学习/Java学习/方法/成员方法.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#mobile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "学习/Java学习/方法/成员方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "学习/Java学习/方法/成员方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +125,33 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "学习/Java学习/方法/成员方法.md"
+              }
+            }
+          },
+          {
+            "id": "8704e16a11fb13d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "bfc53995786cdd2e",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 404.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,8 +164,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "608556c248396e44",
+  "active": "6033b95c1032e024",
   "lastOpenFiles": [
+    "学习/Java学习/方法/构造方法.md",
+    "学习/Java学习/方法/成员方法.md",
+    "未命名",
     "开发笔记/附件/Exported image 20240218135430-0 1.png",
     "OneNote/第1章 计算器组成与体系结构/1.4CPU的组成（运算器与控制器）.md",
     "OneNote/第1章 计算器组成与体系结构/1.5寻址方式.md",
@@ -157,7 +185,6 @@
     "1.9输入输出技术.md/Exported image 20240218153143-20.jpeg",
     "1.6CISC与RISC.md/Exported image 20240218153143-20.jpeg",
     "1.5寻址方式.md/Exported image 20240218153143-20.jpeg",
-    "1.12性能指标.md/Exported image 20240218153143-20.jpeg",
     "OneNote/第3章 数据库系统",
     "2.4存储管理.md",
     "OneNote/第2章 操作系统/2.4存储管理.md",
@@ -177,15 +204,12 @@
     "1.6CISC与RISC.md",
     "OneNote/第1章 计算器组成与体系结构/1.6CISC与RISC.md",
     "1.8存储系统.md",
-    "OneNote/第1章 计算器组成与体系结构/1.8存储系统.md",
-    "1.9输入输出技术.md",
     "OneNote/第1章 计算器组成与体系结构",
     "OneNote",
     "OneNote/第16章 程序设计语言",
     "OneNote/第15章 数据结构及算法应用",
     "OneNote/第14章 算法基础",
     "OneNote/第13章 数据结构",
-    "OneNote/第12章 面向对象程序设计",
-    "OneNote/第11章 UML建模"
+    "OneNote/第12章 面向对象程序设计"
   ]
 }
