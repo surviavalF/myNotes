@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "67cdee716164f99b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "父组件调子组件方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "层级问题移动dom.md",
+                "file": "父组件调子组件方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "层级问题移动dom.md",
+                "file": "父组件调子组件方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +150,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "层级问题移动dom.md"
+                "file": "父组件调子组件方法.md"
               }
             }
+          },
+          {
+            "id": "9828862ce299e55f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2382002de702d241",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +187,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d5f286f4ca04ec37",
+  "active": "67cdee716164f99b",
   "lastOpenFiles": [
+    "层级问题移动dom.md",
+    "父组件调子组件方法.md",
     "表头过长隐藏.md",
     "Uni-app 气泡.md",
     "Uni-app 方法 防抖.md",
@@ -186,8 +216,6 @@
     "鼠标移上去变小手.md",
     "手机号身份证.md",
     "删除node_modules.md",
-    "年份计算，农历，阳历，天干地支.md",
-    "快排.md",
     "附件/Exported image 20240218135515-0 1.png",
     "附件/Exported image 20240218135516-0.png",
     "附件/Exported image 20240218135514-1 1.png",
