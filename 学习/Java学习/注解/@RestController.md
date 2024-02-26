@@ -4,6 +4,7 @@
 
 >具体来说，@RestController注解用于标记一个类，表明该类是一个控制器，并且其下的方法都将返回数据作为响应。使用@RestController注解时，不再需要在方法上添加@ResponseBody注解，因为@RestController默认将所有方法的返回值自动序列化为响应体。
 
+
 @RestController注解主要有以下特点和优势：
 
 - **自动序列化：**@RestController将控制器类中的方法的返回值自动序列化为适当的格式（如JSON、XML）作为响应体返回给客户端。
@@ -13,6 +14,7 @@
 - **结合@Controller和@ResponseBody：** @RestController结合了@Controller和@ResponseBody注解的功能，既可以处理HTTP请求，又可以将方法的返回值直接序列化为响应数据。
 
 - **常用于构建RESTful API：** 由于@RestController的灵活性和方便性，通常用于构建RESTful API，提供数据接口供客户端调用。
+
 
 总之，@RestController注解简化了编写RESTful风格控制器的过程，使代码更加简洁和可读。它将控制器和方法的返回值自动序列化为响应体，方便开发者构建Web服务接口。
 
