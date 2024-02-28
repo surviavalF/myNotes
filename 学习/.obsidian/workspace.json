@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "64b44a90dc3cc373",
+        "id": "4e853cdc0a1f607c",
         "type": "tabs",
         "children": [
           {
-            "id": "b182fe7c6428fa08",
+            "id": "5756fc318459584b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "学习/Java学习/其他/HTTP协议 9 种请求方式用途及区别.md",
-                "staged": false
+                "file": "前端学习/前端基础.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -84,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "前端学习/前端基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "前端学习/前端基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "前端学习/前端基础.md"
+              }
             }
           },
           {
@@ -141,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -157,8 +163,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b182fe7c6428fa08",
+  "active": "5756fc318459584b",
   "lastOpenFiles": [
+    "前端学习/VUE/vue相关问题.md",
+    "前端学习/前端基础.md",
+    "Java学习/Java/Java8 新特性.md",
+    "Java学习/Java/堆和栈.md",
+    "前端学习/常用http状态码：.md",
+    "前端学习/CSS.md",
+    "前端学习/VUE/Vue3 中应该使用 Ref 而不是 Reactive.md",
     "Java学习/其他/HTTP协议 9 种请求方式用途及区别.md",
     "Java学习/类/String类，StringBuffer类，StringBuilder类总比较.md",
     "Java学习/方法/成员方法.md",
@@ -167,8 +180,6 @@
     "Java学习/其他/访问修饰符.md",
     "前端学习/常用浏览器内核.md",
     "前端学习/常用浏览器js引擎：.md",
-    "前端学习/常用http状态码：.md",
-    "前端学习/前端基础.md",
     "Java学习/注解/@SpringBootApplication.md",
     "Java学习/注解/@RestController.md",
     "Java学习/类/Application类作用及run()方法作用.md",
@@ -180,12 +191,7 @@
     "Java学习/关键字/abstract.md",
     "Java学习/关键字/interface.md",
     "Java学习/关键字/final.md",
-    "Java学习/关键字/implements.md",
     "Java学习/附件/Pasted image 20240204144358.png",
-    "前端学习/node,npm/npm ERR! code CERT_HAS_EXPIRED.md",
-    "前端学习/CSS.md",
-    "前端学习/VUE/Vue3 中应该使用 Ref 而不是 Reactive.md",
-    "前端学习/node,npm/npm install xxxx –legacy-peer-deps.md",
     "前端学习/node,npm",
     "前端学习/VUE",
     "前端学习",
