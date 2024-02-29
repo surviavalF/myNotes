@@ -23,3 +23,5 @@
 - [[@RestController]]：它结合了@Controller和@ResponseBody两个注解的功能，并提供了更简洁的方式来编写处理HTTP请求并返回响应的控制器。
 
 - [[@SpringBootApplication]]：它是Spring Boot中的核心注解之一，它简化了配置和启动Spring Boot应用程序的过程。通过使用@SpringBootApplication注解，开发人员可以方便地启用自动配置、组件扫描和构建一个可运行的Spring Boot应用程序。
+
+- @Value：可以用来将外部的值动态注入到Bean中，在@Value注解中，可以使用 ${} 和 #{}

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习/前端基础.md",
+                "file": "前端学习/VUE/Vue3 中应该使用 Ref 而不是 Reactive.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端学习/前端基础.md",
+                "file": "前端学习/VUE/Vue3 中应该使用 Ref 而不是 Reactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端学习/前端基础.md",
+                "file": "前端学习/VUE/Vue3 中应该使用 Ref 而不是 Reactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/前端基础.md"
+                "file": "前端学习/VUE/Vue3 中应该使用 Ref 而不是 Reactive.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,13 +165,15 @@
   },
   "active": "5756fc318459584b",
   "lastOpenFiles": [
+    "前端学习/VUE/未命名.md",
+    "前端学习/VUE/Vue3 中应该使用 Ref 而不是 Reactive.md",
     "前端学习/VUE/vue相关问题.md",
+    "Java学习/注解/java注解.md",
     "前端学习/前端基础.md",
     "Java学习/Java/Java8 新特性.md",
     "Java学习/Java/堆和栈.md",
     "前端学习/常用http状态码：.md",
     "前端学习/CSS.md",
-    "前端学习/VUE/Vue3 中应该使用 Ref 而不是 Reactive.md",
     "Java学习/其他/HTTP协议 9 种请求方式用途及区别.md",
     "Java学习/类/String类，StringBuffer类，StringBuilder类总比较.md",
     "Java学习/方法/成员方法.md",
@@ -189,8 +191,6 @@
     "Java学习/类/ServiceImpl.md",
     "Java学习/关键字/关键字.md",
     "Java学习/关键字/abstract.md",
-    "Java学习/关键字/interface.md",
-    "Java学习/关键字/final.md",
     "Java学习/附件/Pasted image 20240204144358.png",
     "前端学习/node,npm",
     "前端学习/VUE",
