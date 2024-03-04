@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e853cdc0a1f607c",
+        "id": "ddfb663d7677754c",
         "type": "tabs",
         "children": [
           {
-            "id": "5756fc318459584b",
+            "id": "bdc5731bd2569725",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,9 +163,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5756fc318459584b",
+  "active": "bdc5731bd2569725",
   "lastOpenFiles": [
     "前端学习/VUE/未命名.md",
+    "Java学习/SpringBoot/javaweb、spring、springmvc和springboot有什么区别，都是做什么用的？.md",
     "前端学习/VUE/Vue3 中应该使用 Ref 而不是 Reactive.md",
     "前端学习/VUE/vue相关问题.md",
     "Java学习/注解/java注解.md",
@@ -190,7 +191,6 @@
     "Java学习/SQL/SQL 左连接和右连接的区别.md",
     "Java学习/类/ServiceImpl.md",
     "Java学习/关键字/关键字.md",
-    "Java学习/关键字/abstract.md",
     "Java学习/附件/Pasted image 20240204144358.png",
     "前端学习/node,npm",
     "前端学习/VUE",
