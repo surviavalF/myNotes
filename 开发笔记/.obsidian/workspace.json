@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "父组件调子组件方法.md",
+                "file": "commit规范.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "父组件调子组件方法.md",
+                "file": "commit规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "父组件调子组件方法.md",
+                "file": "commit规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "父组件调子组件方法.md"
+                "file": "commit规范.md"
               }
             }
           },
@@ -189,12 +189,13 @@
   },
   "active": "67cdee716164f99b",
   "lastOpenFiles": [
-    "层级问题移动dom.md",
+    "赋值循环.md",
+    "table列表匹配.md",
     "父组件调子组件方法.md",
+    "层级问题移动dom.md",
     "表头过长隐藏.md",
     "Uni-app 气泡.md",
     "Uni-app 方法 防抖.md",
-    "table列表匹配.md",
     "scroll-view不设定高度滚动.md",
     "Element滚动条样式.md",
     "Exported image 20240218135514-0.png",
@@ -215,7 +216,6 @@
     "数字转汉字.md",
     "鼠标移上去变小手.md",
     "手机号身份证.md",
-    "删除node_modules.md",
     "附件/Exported image 20240218135515-0 1.png",
     "附件/Exported image 20240218135516-0.png",
     "附件/Exported image 20240218135514-1 1.png",
