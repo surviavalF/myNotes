@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "commit规范.md",
+                "file": "纯英文，数字不换行问题处理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1ea0afe88727889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "鼠标移上去变小手.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "假",
+                "query": "小手",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "commit规范.md",
+                "file": "鼠标移上去变小手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "commit规范.md",
+                "file": "鼠标移上去变小手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "commit规范.md"
+                "file": "鼠标移上去变小手.md"
               }
             }
           },
@@ -187,11 +200,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67cdee716164f99b",
+  "active": "e1ea0afe88727889",
   "lastOpenFiles": [
+    "commit规范.md",
+    "父组件调子组件方法.md",
     "赋值循环.md",
     "table列表匹配.md",
-    "父组件调子组件方法.md",
     "层级问题移动dom.md",
     "表头过长隐藏.md",
     "Uni-app 气泡.md",
@@ -203,7 +217,6 @@
     "El-tree横向显示.md",
     "el-input 属性type=number时去掉右侧箭头.md",
     "Css First-child.md",
-    "commit规范.md",
     "base64字符串转 file.md",
     "Base64 to Blob.md",
     "字符长度计算（中文算两个字符）.md",
