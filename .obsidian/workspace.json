@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "836903963588329f",
+        "id": "372153fb422a48fa",
         "type": "tabs",
         "children": [
           {
-            "id": "608556c248396e44",
+            "id": "616f78d4554ff9f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/Java学习/方法/成员方法.md",
+                "file": "开发笔记/表头过长隐藏.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19fe12dafef5153e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,6 +44,7 @@
       {
         "id": "41f3693a192ae8ed",
         "type": "tabs",
+        "dimension": 80.1390268123138,
         "children": [
           {
             "id": "eee1cc6bc80460bd",
@@ -48,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mobile",
+                "query": "tag:#标签",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,20 +79,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "3b41783a5097908d",
-    "type": "split",
-    "children": [
+        ]
+      },
       {
-        "id": "faeb911b207c1d14",
+        "id": "4efa6ed86874066f",
         "type": "tabs",
+        "dimension": 19.860973187686195,
         "children": [
           {
             "id": "19d9c19f35faa958",
@@ -86,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/Java学习/方法/成员方法.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/Java学习/方法/成员方法.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,17 +122,47 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b41783a5097908d",
+    "type": "split",
+    "children": [
+      {
+        "id": "01e74f63313611fa",
+        "type": "tabs",
+        "dimension": 36.285714285714285,
+        "children": [
+          {
+            "id": "3633633d428a1312",
+            "type": "leaf",
+            "state": {
+              "type": "calendar-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "faeb911b207c1d14",
+        "type": "tabs",
+        "dimension": 63.714285714285715,
+        "children": [
           {
             "id": "74a7ad65988ef6f9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/Java学习/方法/成员方法.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -147,28 +183,45 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": true,
+      "homepage:Open homepage": false
     }
   },
-  "active": "6033b95c1032e024",
+  "active": "8704e16a11fb13d3",
   "lastOpenFiles": [
-    "学习/Java学习/方法/构造方法.md",
+    "开发笔记/表头过长隐藏.md",
+    "HOME.md",
+    "开发笔记/Uni-app 气泡.md",
+    "所有 Blog 相关.md",
+    "学习/软考/第1章 计算器组成与体系结构/1.1内容提要.md",
     "学习/Java学习/方法/成员方法.md",
+    "学习/前端学习/常用浏览器内核.md",
+    "帮助文档/插件/Markdown 格式转换器.md",
+    "帮助文档/插件/工作区.md",
+    "帮助文档/使用指南/标签的使用.md",
+    "帮助文档/插件/搜索.md",
     "未命名",
+    "帮助文档/附件/幻灯片示例.md",
+    "帮助文档/附件/管理工作区布局.png",
+    "帮助文档/附件/反向链接.png",
+    "帮助文档/附件/Pasted image 3.png",
+    "帮助文档/附件/Pasted image 1.png",
+    "帮助文档/附件/Pasted image.png",
+    "学习/Java学习/方法/构造方法.md",
     "开发笔记/附件/Exported image 20240218135430-0 1.png",
     "OneNote/第1章 计算器组成与体系结构/1.4CPU的组成（运算器与控制器）.md",
     "OneNote/第1章 计算器组成与体系结构/1.5寻址方式.md",
@@ -180,11 +233,6 @@
     "2.5设备管理.md/Exported image 20240218153143-20.jpeg",
     "2.4存储管理.md/Exported image 20240218153143-20.jpeg",
     "2.3进程管理.md/Exported image 20240218153143-20.jpeg",
-    "1.1内容提要.md/Exported image 20240218153143-20.jpeg",
-    "1.3校验码.md/Exported image 20240218153143-20.jpeg",
-    "1.9输入输出技术.md/Exported image 20240218153143-20.jpeg",
-    "1.6CISC与RISC.md/Exported image 20240218153143-20.jpeg",
-    "1.5寻址方式.md/Exported image 20240218153143-20.jpeg",
     "OneNote/第3章 数据库系统",
     "2.4存储管理.md",
     "OneNote/第2章 操作系统/2.4存储管理.md",
@@ -193,17 +241,7 @@
     "2.5设备管理.md",
     "OneNote/第2章 操作系统/2.5设备管理.md",
     "2.7作业管理.md",
-    "OneNote/第2章 操作系统/2.7作业管理.md",
-    "2.6文件管理.md",
-    "OneNote/第2章 操作系统/2.6文件管理.md",
-    "1.1内容提要.md",
     "OneNote/第2章 操作系统",
-    "1.3校验码.md",
-    "1.4CPU的组成（运算器与控制器）.md",
-    "1.5寻址方式.md",
-    "1.6CISC与RISC.md",
-    "OneNote/第1章 计算器组成与体系结构/1.6CISC与RISC.md",
-    "1.8存储系统.md",
     "OneNote/第1章 计算器组成与体系结构",
     "OneNote",
     "OneNote/第16章 程序设计语言",

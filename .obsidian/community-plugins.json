@@ -1,4 +1,9 @@
 [
   "obsidian-importer",
-  "obsidian-git"
+  "obsidian-git",
+  "homepage",
+  "obsidian-style-settings",
+  "file-order",
+  "dataview",
+  "dust-calendar"
 ]
