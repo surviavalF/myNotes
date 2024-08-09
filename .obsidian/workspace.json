@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/软考/第1章 计算器组成与体系结构/1.1内容提要.md",
+                "file": "学习/前端学习/CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "50ca9af317f9d46f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习/Java学习/方法/成员方法.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a21e94d8f892828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "历史/未命名.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/软考/第1章 计算器组成与体系结构/1.1内容提要.md",
+                "file": "历史/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/软考/第1章 计算器组成与体系结构/1.1内容提要.md",
+                "file": "历史/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/软考/第1章 计算器组成与体系结构/1.1内容提要.md"
+                "file": "历史/未命名.md"
               }
             }
           },
@@ -188,46 +213,46 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "69717727559002e8",
+  "active": "9a21e94d8f892828",
   "lastOpenFiles": [
-    "HOME.md",
-    "学习/软考/第1章 计算器组成与体系结构/1.1内容提要.md",
-    "学习/Java学习/方法/成员方法.md",
     "开发笔记/表头过长隐藏.md",
+    "历史/未命名.md",
+    "HOME.md",
+    "学习/Java学习/方法/成员方法.md",
+    "学习/前端学习/CSS.md",
+    "读书笔记/摘抄.md",
+    "学习/前端学习/前端基础.md",
+    "学习/前端学习/常用浏览器js引擎：.md",
+    "学习/前端学习/常用http状态码：.md",
+    "学习/前端学习/常用浏览器内核.md",
+    "学习/软考/第1章 计算器组成与体系结构/1.1内容提要.md",
+    "读书笔记",
+    "开发笔记/动态颜色样式.md",
+    "开发笔记/动态表头.md",
+    "开发笔记/递归.md",
+    "开发笔记/打开空白新页面.md",
+    "开发笔记/打包.md",
+    "开发笔记/纯英文，数字不换行问题处理.md",
+    "开发笔记/成员选择穿梭框组件.md",
+    "开发笔记/层级问题移动dom.md",
     "开发笔记/Uni-app 气泡.md",
     "所有 Blog 相关.md",
-    "学习/前端学习/常用浏览器内核.md",
     "帮助文档/插件/Markdown 格式转换器.md",
     "帮助文档/插件/工作区.md",
     "帮助文档/使用指南/标签的使用.md",
     "帮助文档/插件/搜索.md",
-    "未命名",
     "帮助文档/附件/幻灯片示例.md",
     "帮助文档/附件/管理工作区布局.png",
     "帮助文档/附件/反向链接.png",
     "帮助文档/附件/Pasted image 3.png",
     "帮助文档/附件/Pasted image 1.png",
     "帮助文档/附件/Pasted image.png",
-    "学习/Java学习/方法/构造方法.md",
     "开发笔记/附件/Exported image 20240218135430-0 1.png",
-    "OneNote/第1章 计算器组成与体系结构/1.4CPU的组成（运算器与控制器）.md",
-    "OneNote/第1章 计算器组成与体系结构/1.5寻址方式.md",
-    "OneNote/第1章 计算器组成与体系结构/1.3校验码.md",
-    "OneNote/第1章 计算器组成与体系结构/1.2数据的表示.md",
-    "OneNote/第1章 计算器组成与体系结构/1.1内容提要.md",
-    "学习/前端学习/vue相关问题.md",
     "1.4CPU的组成（运算器与控制器）.md/Exported image 20240218153143-20.jpeg",
     "2.5设备管理.md/Exported image 20240218153143-20.jpeg",
     "2.4存储管理.md/Exported image 20240218153143-20.jpeg",
     "2.3进程管理.md/Exported image 20240218153143-20.jpeg",
     "OneNote/第3章 数据库系统",
-    "2.4存储管理.md",
-    "OneNote/第2章 操作系统/2.4存储管理.md",
-    "2.3进程管理.md",
-    "OneNote/第2章 操作系统/2.3进程管理.md",
-    "2.5设备管理.md",
-    "OneNote/第2章 操作系统/2.5设备管理.md",
-    "2.7作业管理.md",
     "OneNote/第2章 操作系统",
     "OneNote/第1章 计算器组成与体系结构",
     "OneNote",
