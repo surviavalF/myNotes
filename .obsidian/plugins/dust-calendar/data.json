@@ -1,7 +1,7 @@
 {
   "shouldDisplayLunarInfo": true,
   "shouldDisplayHolidayInfo": true,
-  "fontSizeChangeMode": 3,
+  "fontSizeChangeMode": 2,
   "immutableFontSizeFactor": 1,
   "quarterNameMode": 2,
   "wordsPerDot": 200,

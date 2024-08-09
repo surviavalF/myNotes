@@ -1,3 +1,9 @@
+---
+banner: "https://api.dujin.org/bing/1366.php"
+banner_x: 0.5
+---
+
+
 ```dataviewjs
 let ftMd = dv.pages("").file.sort(t => t.cday)[0]
 let total = parseInt([new Date() - ftMd.ctime] / (60*60*24*1000))
@@ -19,8 +25,8 @@ dv.paragraph(
 ```dataviewjs
 	let pages = dv.pages('"开发笔记"');
 	dv.table(
-		["名字","genre"],
-		pages.sort(b => b.file.mtime,"desc")
-			.map(b => [b.file.link,b.genre])
+		["名字","创建时间"],
+		pages.sort(b => b.file.cday,"desc")
+			.map(b => [b.file.link,b.file.cday])
 	)
 ```
