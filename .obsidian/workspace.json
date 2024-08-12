@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f0f0e7352363313e",
+        "id": "afd438ebaf7e6c7a",
         "type": "tabs",
         "children": [
           {
-            "id": "69717727559002e8",
+            "id": "b43361fd6e79c485",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/前端学习/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50ca9af317f9d46f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习/Java学习/方法/成员方法.md",
+                "file": "历史/02 夏/夏.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a21e94d8f892828",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "历史/未命名.md",
-                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#标签",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +71,7 @@
       {
         "id": "4efa6ed86874066f",
         "type": "tabs",
-        "dimension": 25.094102885821833,
+        "dimension": 25.094102885821837,
         "children": [
           {
             "id": "19d9c19f35faa958",
@@ -104,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史/未命名.md",
+                "file": "历史/02 夏/夏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史/未命名.md",
+                "file": "历史/02 夏/夏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/未命名.md"
+                "file": "历史/02 夏/夏.md"
               }
             }
           },
@@ -213,35 +188,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9a21e94d8f892828",
+  "active": "b43361fd6e79c485",
   "lastOpenFiles": [
-    "开发笔记/表头过长隐藏.md",
-    "历史/未命名.md",
+    "历史/时间线.md",
+    "历史/01 远古时期/远古时期.md",
+    "历史/17 中华民国时期/中华民国时期.md",
+    "Pasted image 20240812155801.png",
+    "历史/16 清朝/清朝.md",
+    "历史/15 明朝/明朝.md",
+    "历史/14 元朝/元朝.md",
+    "历史/13 宋/宋朝.md",
+    "历史/12 五代十国/五代十国.md",
+    "历史/11 唐朝/唐朝.md",
+    "历史/10 隋朝/隋朝.md",
+    "历史/09 南北朝/南北朝时期.md",
+    "历史/08 两晋/两晋时期.md",
+    "历史/07 三国/三国.md",
+    "历史/06 汉朝/汉朝.md",
+    "历史/05 秦/秦朝.md",
+    "历史/04 周/周.md",
+    "历史/03 商/商.md",
+    "历史/02 夏/夏.md",
+    "历史/18 中华人民共和国/中华人民共和国.md",
+    "历史/18 中华人民共和国",
+    "历史/17 中华民国时期",
+    "历史/13 宋",
+    "历史/04 周/东周/战国/战国.md",
+    "历史/04 周/东周/春秋/春秋.md",
+    "历史/04 周/东周/东周.md",
+    "历史/04 周/西周/西周.md",
+    "历史/04 周/西周/未命名",
+    "历史/04 周/东周/战国",
+    "历史/04 周/东周/春秋",
+    "历史/04 周/西周",
+    "历史/04 周/东周",
+    "历史/04 周/周",
+    "历史/01 远古时期",
     "HOME.md",
-    "学习/Java学习/方法/成员方法.md",
-    "学习/前端学习/CSS.md",
-    "读书笔记/摘抄.md",
-    "学习/前端学习/前端基础.md",
-    "学习/前端学习/常用浏览器js引擎：.md",
-    "学习/前端学习/常用http状态码：.md",
-    "学习/前端学习/常用浏览器内核.md",
-    "学习/软考/第1章 计算器组成与体系结构/1.1内容提要.md",
-    "读书笔记",
-    "开发笔记/动态颜色样式.md",
-    "开发笔记/动态表头.md",
-    "开发笔记/递归.md",
-    "开发笔记/打开空白新页面.md",
-    "开发笔记/打包.md",
-    "开发笔记/纯英文，数字不换行问题处理.md",
-    "开发笔记/成员选择穿梭框组件.md",
-    "开发笔记/层级问题移动dom.md",
-    "开发笔记/Uni-app 气泡.md",
-    "所有 Blog 相关.md",
-    "帮助文档/插件/Markdown 格式转换器.md",
-    "帮助文档/插件/工作区.md",
-    "帮助文档/使用指南/标签的使用.md",
-    "帮助文档/插件/搜索.md",
-    "帮助文档/附件/幻灯片示例.md",
+    "开发笔记/年份计算，农历，阳历，天干地支.md",
     "帮助文档/附件/管理工作区布局.png",
     "帮助文档/附件/反向链接.png",
     "帮助文档/附件/Pasted image 3.png",
@@ -250,16 +234,6 @@
     "开发笔记/附件/Exported image 20240218135430-0 1.png",
     "1.4CPU的组成（运算器与控制器）.md/Exported image 20240218153143-20.jpeg",
     "2.5设备管理.md/Exported image 20240218153143-20.jpeg",
-    "2.4存储管理.md/Exported image 20240218153143-20.jpeg",
-    "2.3进程管理.md/Exported image 20240218153143-20.jpeg",
-    "OneNote/第3章 数据库系统",
-    "OneNote/第2章 操作系统",
-    "OneNote/第1章 计算器组成与体系结构",
-    "OneNote",
-    "OneNote/第16章 程序设计语言",
-    "OneNote/第15章 数据结构及算法应用",
-    "OneNote/第14章 算法基础",
-    "OneNote/第13章 数据结构",
-    "OneNote/第12章 面向对象程序设计"
+    "2.4存储管理.md/Exported image 20240218153143-20.jpeg"
   ]
 }
